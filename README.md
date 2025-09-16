@@ -1,6 +1,6 @@
 [🇧🇷](#ptbr)
 # paste-image
-Simple bash script for Wayland that saves an image from the clipboard to a timestamped file
+Bash script for Wayland that saves an image from the clipboard to a timestamped file
 ## Requirements
 - Linux
 - Wayland
@@ -24,8 +24,8 @@ pi "~/Documents"
 # image will be saved to $HOME/Documents/paste-image[date and time].png
 ```
 You should wrap the path with double quotes, to handle paths with spaces, e.g. `~/My Pictures`.
-# paste-image (Português do Brasil)
 <a name="ptbr"></a>
+# paste-image (Português do Brasil)
 Script em bash pra Wayland que salva uma imagem da área de transferência como um arquivo com data e hora no nome.
 ## Requisitos
 - Linux
