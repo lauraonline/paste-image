@@ -24,6 +24,7 @@ pi "~/Documents"
 # image will be saved to $HOME/Documents/paste-image[date and time].png
 ```
 You should wrap the path with double quotes, to handle paths with spaces, e.g. `~/My Pictures`.
+---
 <a name="ptbr"></a>
 # paste-image (Português do Brasil)
 Script em bash pra Wayland que salva uma imagem da área de transferência como um arquivo com data e hora no nome.
